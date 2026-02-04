@@ -143,3 +143,26 @@ body{
 .answer div:hover{
   background-color: gray;
 }
+
+
+body{
+  background-image: url('bg.jpg');
+  background-size: cover;
+}
+
+.judul {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.start{
+  height: 50px;
+  width: 100px;
+  border-radius: 25px;
+  background-color: yellow;
+}
+
+.tittle_corect{
+  font-size: 30px;
+
+}
